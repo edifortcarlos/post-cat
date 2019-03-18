@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "start-server": "nodemon ./backend/post-cat-server.js"
+    "start-server": "nodemon ./backend/post-cat-server.js",
+    "deploy-all": "ng build --prod && cd backend && npm run deploy"
   },
   "private": true,
   "dependencies": {

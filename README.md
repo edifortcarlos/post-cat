@@ -1,27 +1,21 @@
-# BlackBox
+# Post Cat
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This is a MEAN Stack project build from the scratch. The goal of this project is to master the main consepts around MEAN development.
 
-## Development server
+If this ins the first time you read this word, `MEAN` stands for `Mongoose`, `Express`, `Angular`, and `Nodejs`. Those are a set of technology that you combine to build consise fullstack projects.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## About the project
 
-## Code scaffolding
+The project consist in a simple fullstack `Angular` & `Node` app that allow the users to read, create, edit and delete posts, in other words the `CRUD`. I implement a basic user authentication to provid some level of security, this means, the user only can delete the posts that was created by hin. In other hand hte user only can delete is posts if he is loged in.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Running the app
 
-## Build
+To run this app you can run the deployed version on the cloud or you can download the project and run on your machine.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Running the deployed version
 
-## Running unit tests
+To run this app you can [open this page](https://post-cat.herokuapp.com), or you can clone the project and run
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Running the local version
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+After clone the project to your machine, run `npm install` to install all the dependences. You must be shure that you have MongoDB instaled and running

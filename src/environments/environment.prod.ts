@@ -1,4 +1,5 @@
+// apiUrl: 'https://post-cat.herokuapp.com'
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:3000/api'
+  apiUrl: 'https://post-cat.herokuapp.com/api'
 };

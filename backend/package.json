@@ -2,6 +2,10 @@
   "name": "post-cat-api",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "start": "node post-cat-server.js",
+    "deploy": "git add . && git commit -m 'deploy_to_the_server' && git push heroku master"
+  },
   "dependencies": {
     "bcrypt": "^3.0.4",
     "body-parser": "^1.18.3",

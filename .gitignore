@@ -4,9 +4,12 @@
 /dist
 /tmp
 /out-tsc
+/backend/front_end
 
 # dependencies
 /node_modules
+
+
 
 # IDEs and editors
 /.idea
