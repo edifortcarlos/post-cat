@@ -1,6 +1,6 @@
 {
   "env": {
     "TOKEN_SECRET": "secret_to_not_be_founded_yill_you_try",
-    "MONGO_ATLAS_PW": "5up3r-53cr3t"
+    "MONGO_ATLAS_PW": "node-shop"
   }
 }
