@@ -1,0 +1,808 @@
+[{
+    "uuid": "0B0nBndnBPyiYX0lmLTRlN1NjZXVFNDNhUUxiR0JvWWxKMGZr",
+    "name": "Factura-1",
+    "mimeType": "application/document",
+    "size": 25578,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-1", "aspect-2"],
+    "parents": ["ROOT"],
+    "createdTime": "2015-04-20T12:45:37.838Z",
+    "modifiedTime": "2015-04-20T12:45:37.838Z",
+    "owner": "Eurico P. Sapalo",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYX0lmLTRlN1NjZXVFNDNhUUxiR0JvWWxKMGZr",
+      "name": "pendente",
+      "state": "activo",
+      "log": [{
+        "user": "e.sapalo",
+        "date": "2015-04-20T12:45:37.838Z",
+        "comments": "emitido",
+        "trigger": "criada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-1"
+    },
+    "version": 3746,
+    "versions": [{
+      "version": "3745",
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "1xXC491pOIDxSIsy4QSq2OcH1ZYAKUAdk",
+    "name": "Factura-2",
+    "mimeType": "application/document",
+    "size": 2788,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-1"],
+    "parents": ["ROOT"],
+    "createdTime": "2017-12-05T17:15:55.148Z",
+    "modifiedTime": "2017-12-05T17:19:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "uid",
+      "name": "Aprovada",
+      "state": "inactivo",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2017-12-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "criada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-2"
+    },
+    "version": 3893,
+    "versions": [{
+      "version": 3892,
+      "content": "versão anterior"
+    }]
+  },
+  {
+    "uuid": "10BZPLAexvc54k1l_ue8w4vKdQRxL6b0t",
+    "name": "Nota de credito",
+    "mimeType": "application/document",
+    "size": 3785,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-3"],
+    "parents": ["0B0nBndnBPyiYaFFjWU93UUo2S1k"],
+    "createdTime": "2016-12-05T17:15:55.148Z",
+    "modifiedTime": "2016-12-05T17:19:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "uid",
+      "name": "Aprovada",
+      "state": "inactivo",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2016-12-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "criada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-2"
+    },
+    "version": 3898,
+    "versions": [{
+      "version": 3899,
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "0B0nBndnBPyiYQ1diODByWlp6dWM",
+    "name": "Nota de debito",
+    "mimeType": "application/document",
+    "size": 2785,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-1"],
+    "parents": ["ROOT"],
+    "createdTime": "2018-03-05T17:15:55.148Z",
+    "modifiedTime": "2018-03-05T17:17:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYQ1diODByWlp6dWM",
+      "name": "reprovada",
+      "state": "activo",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2018-03-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "criada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-1"
+    },
+    "version": 2895,
+    "versions": [{
+      "version": 2894,
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "0B0nBndnBPyiYRDJ5X2E3VmV4cjQ",
+    "name": "Factura-3",
+    "mimeType": "application/document",
+    "size": 3784,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-2"],
+    "parents": ["ROOT"],
+    "createdTime": "2014-02-05T17:15:55.148Z",
+    "modifiedTime": "2014-02-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYRDJ5X2E3VmV4cjQ",
+      "name": "aprovada",
+      "state": "activo",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2014-03-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "criada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-3"
+    },
+    "version": 2867,
+    "versions": [{
+      "version": 2866,
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "0B0nBndnBPyiYYlhneW05TUw1bGs",
+    "name": "Factura-5",
+    "mimeType": "application/document",
+    "size": 1784,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-5"],
+    "parents": ["ROOT"],
+    "createdTime": "2013-03-05T17:15:55.148Z",
+    "modifiedTime": "2013-03-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYYlhneW05TUw1bGs",
+      "name": "reprovada",
+      "state": "inactiva",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2013-02-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-2"
+    },
+    "version": 2457,
+    "versions": [{
+      "version": 2456,
+      "content": "versão anterior"
+    }]
+  },
+  {
+    "uuid": "0B0nBndnBPyiYY2xIX3BDb1RiUEE",
+    "name": "Factura-6",
+    "mimeType": "application/document",
+    "size": 1774,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-5"],
+    "parents": ["ROOT"],
+    "createdTime": "2010-01-05T17:15:55.148Z",
+    "modifiedTime": "2010-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYY2xIX3BDb1RiUEE",
+      "name": "reprovada",
+      "state": "inactiva",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2010-02-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-2"
+    },
+    "version": 2456,
+    "versions": [{
+      "version": 2455,
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "0B0nBndnBPyiYajA2amdTdEpUZ1E",
+    "name": "Factura-7",
+    "mimeType": "application/document",
+    "size": 1775,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-6"],
+    "parents": ["ROOT"],
+    "createdTime": "2009-01-05T17:15:55.148Z",
+    "modifiedTime": "2009-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYajA2amdTdEpUZ1E",
+      "name": "aprovada",
+      "state": "pendente",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2009-01-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-3"
+    },
+    "version": 2455,
+    "versions": [{
+      "version": 2454,
+      "content": "versão anterior"
+    }]
+  },
+  {
+    "uuid": "0B0nBndnBPyiYa0JMcFRNNF9RU2c",
+    "name": "Factura-8",
+    "mimeType": "application/document",
+    "size": 1773,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-7"],
+    "parents": ["ROOT"],
+    "createdTime": "2008-01-05T17:15:55.148Z",
+    "modifiedTime": "2008-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYa0JMcFRNNF9RU2c",
+      "name": "aprovada",
+      "state": "pendente",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2008-01-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-4"
+    },
+    "version": 2454,
+    "versions": [{
+      "version": 2453,
+      "content": "versão anterior"
+    }]
+  },
+
+  {
+    "uuid": "0B0nBndnBPyiYcWZzRWlYQ3c0OVU",
+    "name": "Factura-9",
+    "mimeType": "application/document",
+    "size": 1772,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-6"],
+    "parents": ["ROOT"],
+    "createdTime": "2007-01-05T17:15:55.148Z",
+    "modifiedTime": "2007-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYcWZzRWlYQ3c0OVU",
+      "name": "aprovada",
+      "state": "pendente",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2007-01-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-3"
+    },
+    "version": 2453,
+    "versions": [{
+      "version": 2452,
+      "content": "versão anterior"
+    }]
+  },
+
+
+  {
+    "uuid": "0B0nBndnBPyiYcWZzRWlYQ3c0OVU",
+    "name": "Nota de credito",
+    "mimeType": "application/document",
+    "size": 1770,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-5"],
+    "parents": ["0B0nBndnBPyiYaFFjWU93UUo2S1k", "0B0nBndnBPyiYdGFBTWFLTGVRTnc"],
+    "createdTime": "2005-01-05T17:15:55.148Z",
+    "modifiedTime": "2005-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYaFFjWU93UUo2S1k",
+      "name": "aprovada",
+      "state": "inactiva",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2005-01-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-3"
+    },
+    "version": 2453,
+    "versions": [{
+      "version": 2452,
+      "content": "versão anterior"
+    }]
+  },
+
+
+  {
+    "uuid": "1_vx7U6VDIGzBHt6YbQLTKvbyNEJ0nN83",
+    "name": "Nota fiscal",
+    "mimeType": "application/document",
+    "size": 1779,
+    "starred": false,
+    "trashed": false,
+    "aspects": ["aspect-5"],
+    "parents": ["0B0nBndnBPyiYaFFjWU93UUo2S1k", "0B0nBndnBPyiYY3puY2diX0dRck0", "0B0nBndnBPyiYaFhRR29YekUxams"],
+    "createdTime": "2004-01-05T17:15:55.148Z",
+    "modifiedTime": "2005-01-05T17:16:35.584Z",
+    "owner": "Edilásio F. Carlos",
+    "workflow": {
+      "uuid": "0B0nBndnBPyiYaFFjWU93UUo2S1k",
+      "name": "aprovada",
+      "state": "inactiva",
+      "log": [{
+        "user": "e.carlos",
+        "date": "2004-01-05T17:19:35.584Z",
+        "comments": "emitido",
+        "trigger": "modificada"
+      }]
+    },
+    "properties": {
+      "aspect-property-1": "aspect-value-3"
+    },
+    "version": 2453,
+    "versions": [{
+      "version": 2452,
+      "content": "versão anterior"
+    }]
+  }
+  ,
+    {
+  "uuid" : "0B0nBndnBPyiYY3puY2diX0dRck0",
+  "name" : "Naja",
+  "mimeType" : "application/folder",
+  "size" : 2780,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-1","aspect-2"],
+  "parents": ["ROOT"],
+  "createdTime": "2000-04-20T12:45:37.838Z",
+  "modifiedTime": "2000-04-20T12:45:37.838Z",
+  "owner" : "Eurico P. Sapalo",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYY3puY2diX0dRck0",
+      "name" : "pendente",
+      "state" : "activo",
+      "log" : [
+          {
+              "user" : "e.sapalo",
+              "date" : "2000-02-20T12:45:37.838Z",
+              "comments" : "criada",
+              "trigger" : "criada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-2"
+  },
+  "childs" : ["1_vx7U6VDIGzBHt6YbQLTKvbyNEJ0nN83"],
+  "onCreateActions" : ["action-c-1","action-c-2"],
+  "onModifyActions" : ["action-m-1","action-m-2"] 
+  
+
+},
+
+{
+  "uuid" : "0B0nBndnBPyiYaFFjWU93UUo2S1k",
+  "name" : "Ende",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-1"],
+  "parents": ["ROOT"],
+  "createdTime": "2000-12-05T17:15:55.148Z",
+  "modifiedTime": "2000-12-05T17:19:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYaFFjWU93UUo2S1k",
+      "name" : "Aprovada",
+      "state" : "inactivo",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2000-12-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "criada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-2"
+  },
+
+  "childs" : ["10BZPLAexvc54k1l_ue8w4vKdQRxL6b0t","1_vx7U6VDIGzBHt6YbQLTKvbyNEJ0nN83"],
+  "onCreateActions" : ["action-c-1","action-c-2"],
+  "onModifyActions" : ["action-m-1","action-m-2"] 
+ 
+}
+,
+{
+  "uuid" : "0B0nBndnBPyiYaFhRR29YekUxams",
+  "name" : "Startel",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-3"],
+  "parents": ["ROOT"],
+  "createdTime": "2000-12-05T17:15:55.148Z",
+  "modifiedTime": "2000-12-05T17:19:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "uid",
+      "name" : "Aprovada",
+      "state" : "inactivo",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2000-12-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "criada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-2"
+  },
+  "childs" : ["0B0nBndnBPyiYdGFBTWFLTGVRTnc"],
+  "onCreateActions" : ["action-c-1","action-c-3"],
+  "onModifyActions" : ["action-m-4","action-m-5"] 
+},
+
+{
+  "uuid" : "0B0nBndnBPyiYdGFBTWFLTGVRTnc",
+  "name" : "Hemaj",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-3"],
+  "parents": ["0B0nBndnBPyiYaFhRR29YekUxams"],
+  "createdTime": "1999-03-05T17:15:55.148Z",
+  "modifiedTime": "1999-03-05T17:17:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "uid",
+      "name" : "reprovada",
+      "state" : "activo",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "1999-03-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "criada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-1"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-3","action-c-4"],
+  "onModifyActions" : ["action-m-6","action-m-5"] 
+}
+,
+
+{
+  "uuid" : "0B0nBndnBPyiYRDJ5X2E3VmV4cjh",
+  "name" : "RH",
+  "mimeType" : "application/folder",
+  "size" : 200,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-2"],
+  "parents": ["ROOT"],
+  "createdTime": "2017-02-05T17:15:55.148Z",
+  "modifiedTime": "2017-02-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYRDJ5X2E3VmV4cjh",
+      "name" : "aprovada",
+      "state" : "activo",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2017-03-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "criada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-3"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-2","action-c-3"],
+  "onModifyActions" : ["action-m-5","action-m-4"] 
+},
+
+{
+  "uuid" : "0B0nBndnBPyiYYlhneW05TUw1bG90",
+  "name" : "Tesoraria",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-4"],
+  "parents": ["ROOT"],
+  "createdTime": "2016-03-05T17:15:55.148Z",
+  "modifiedTime": "2016-03-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYYlhneW05TUw1bG90",
+      "name" : "reprovada",
+      "state" : "inactiva",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2016-02-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-2"
+  },
+  "childs" : ["0B0nBndnBPyiYa0JMcFRNNF9RU2c102"],
+  "onCreateActions" : ["action-c-2","action-c-3"],
+  "onModifyActions" : ["action-m-5","action-m-4"] 
+},
+{
+  "uuid" : "0B0nBndnBPyiYY2xIX3BDb1RiUEE100",
+  "name" : "Contabilidade",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" : ["aspect-5"],
+  "parents": ["ROOT"],
+  "createdTime": "2010-01-05T17:15:55.148Z",
+  "modifiedTime": "2010-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "uid",
+      "name" : "reprovada",
+      "state" : "inactiva",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2010-02-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-2"
+  },
+  "childs" : ["0B0nBndnBPyiYajA2amdTdEpUZ1E101"],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-4"] 
+},
+
+{
+  "uuid" : "0B0nBndnBPyiYajA2amdTdEpUZ1E101",
+  "name" : "Compras",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": true,
+  "aspects" :["aspect-6"],
+  "parents": ["0B0nBndnBPyiYY2xIX3BDb1RiUEE100"],
+  "createdTime": "2009-01-05T17:15:55.148Z",
+  "modifiedTime": "2009-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYajA2amdTdEpUZ1E101",
+      "name" : "aprovada",
+      "state" : "pendente",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2009-01-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-3"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-4"] 
+},
+{
+  "uuid" : "0B0nBndnBPyiYa0JMcFRNNF9RU2c102",
+  "name" : "Caixa",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" :["aspect-7"],
+  "parents": ["0B0nBndnBPyiYYlhneW05TUw1bG90"],
+  "createdTime": "2009-01-05T17:15:55.148Z",
+  "modifiedTime": "2009-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYa0JMcFRNNF9RU2c102",
+      "name" : "aprovada",
+      "state" : "pendente",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2008-01-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-4"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-5"] 
+},
+
+{
+  "uuid" : "0B0nBndnBPyiYcWZzRWlYQ3c0OVU104",
+  "name" : "Facturas pendentes",
+  "mimeType" : "application/folder",
+  "size" : 1772,
+  "starred": false,
+  "trashed": false,
+  "aspects" :["aspect-6"],
+  "parents": ["ROOT"],
+  "createdTime": "2007-01-05T17:15:55.148Z",
+  "modifiedTime": "2007-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYcWZzRWlYQ3c0OVU104",
+      "name" : "aprovada",
+      "state" : "pendente",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2007-01-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-3"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-5"] 
+},
+
+
+{
+  "uuid" : "0B0nBndnBPyiYcWZzRWlYQ3c0OVU107",
+  "name" : "Notas",
+  "mimeType" : "application/folder",
+  "size" : 2000,
+  "starred": false,
+  "trashed": false,
+  "aspects" :["aspect-5"],
+  "parents": ["ROOT"],
+  "createdTime": "2005-01-05T17:15:55.148Z",
+  "modifiedTime": "2005-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "0B0nBndnBPyiYcWZzRWlYQ3c0OVU107",
+      "name" : "aprovada",
+      "state" : "inactiva",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2005-01-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-3"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-5"] 
+},
+
+
+{
+  "uuid" : "1_vx7U6VDIGzBHt6YbQLTKvbyNEJ0nN83207",
+  "name" : "Relatorios",
+  "mimeType" : "application/folder",
+  "size" : 1779,
+  "starred": false,
+  "trashed": false,
+  "aspects" :["aspect-5"],
+  "parents": ["ROOT"],
+  "createdTime": "2004-01-05T17:15:55.148Z",
+  "modifiedTime": "2005-01-05T17:16:35.584Z",
+  "owner" : "Edilásio F. Carlos",
+  "workflow" : {
+      "uuid" : "1_vx7U6VDIGzBHt6YbQLTKvbyNEJ0nN83207",
+      "name" : "aprovada",
+      "state" : "inactiva",
+      "log" : [
+          {
+              "user" : "e.carlos",
+              "date" : "2004-01-05T17:19:35.584Z",
+              "comments" : "emitido",
+              "trigger" : "modificada"
+          }
+      ]
+  },
+  "properties" : {
+      "aspect-property-1" : "aspect-value-3"
+  },
+  "childs" : [],
+  "onCreateActions" : ["action-c-7","action-c-3"],
+  "onModifyActions" : ["action-m-8","action-m-5"] 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+]

@@ -1,0 +1,10 @@
+1:Renomear um nó : ao renomear um nó quando demos um click sobre a opção renomear na caixa de dialogo para renomear no componente input não traz o nome atual do nó.
+1:Resolvido:Alterar a propriedade name por titulo.
+
+2:Adicionar favoritos: Quando adicionamos um novo nó aos favoritos enquanto não atualizamos a pagina esse nó não é previsualizado no menu de atalhos.
+2:Resolvido:solucão transformar a chamada ao metodo que retorna os favoritos assincrona.
+
+3:Atalhos: quando se adiciona um nó como atalho ele não vem indentado, logo assemelha-se a mais uma opção do menu e não como um filho da opção atalho como deveria ser.
+3:Resolvido:Solução acrescimo de icones.
+
+4:Smartfolders:quando clicamos em previsualizar e baixar em um nó que esta associado a uma smart folder nada acontece

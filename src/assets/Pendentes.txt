@@ -1,0 +1,21 @@
+Área do cliente final
+Nós
+•	Não é intuitivo baixar um ficheiro quando é adicionado como favorito. (EC)
+•	Adicionar uma estrela aos nós quando adicionados como favorito. (EC)
+•	Não adicionar do lado esquerdo um file quando adicionado como favorito. (EC)
+
+SmartFolders
+•	Mostrar a quantidade de nós selecionados quando se efetuar múltipla seleção.(EC)
+•	No menu de contexto quando se colocar o cursor sobre uma ação, apresentar a descrição desta ação no tooltip. (EC)
+
+
+Todo projeto 
+•	Alterar o termo substituir por atualizar. (ES) (feito)
+•	Adicionar drag and drop em todas as áreas que se faz upload de arquivos. (ES)(feito)
+
+Área administrativa
+Ações
+•	Trazer uma caixa de diálogo caso a ação a ser executada tenha parâmetros. (EC)
+•	Nos filds e nos parâmetros definir que campos são obrigatórios (EC)
+•	Na secção da barra lateral a direita colocar o campo descrição. (ES)(feito)
+
