@@ -14,7 +14,7 @@ To run this app you can run the deployed version on the cloud or you can downloa
 
 ## Running the deployed version
 
-To run this app you can [open this page](https://post-cat.herokuapp.com), or you can clone the project and run
+To run this app you can [open in this page](https://post-cat.herokuapp.com).
 
 ## Running the local version
 
